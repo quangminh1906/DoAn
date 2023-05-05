@@ -1,0 +1,19 @@
+{
+  "mongodb": {
+    "connectionString": "mongodb://localhost:27017/minh"
+  },
+  "jwt": {
+    "secret": "quangminh19006"
+  },
+  "mail-credentials": {
+    "userid": "quangminh19008@gmail.com",
+    "password": "beaqtcdcheejxjgj"
+  },
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 465
+  },
+  "mail-sender": {
+    "from": "'Hệ thống thi online'<quangminh19008@gmail.com>"
+  }
+}
